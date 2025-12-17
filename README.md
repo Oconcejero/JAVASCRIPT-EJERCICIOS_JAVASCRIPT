@@ -13,4 +13,4 @@ Puedes ver los ejercicios funcionando aquí: <br>
 🔗 [https://oconcejero.github.io/JAVASCRIPT-EJERCICIOS_JAVASCRIPT/](https://oconcejero.github.io/JAVASCRIPT-EJERCICIOS_JAVASCRIPT/)
 
 
-Puedes ver una vista previa en vivo del encabezado ![Web Spa](img/EJERCICIOS_JAVASCRIPT.png)
+Puedes ver una vista previa en vivo de los juegos. ![Web Spa](img/EJERCICIOS_JAVASCRIPT.png)
